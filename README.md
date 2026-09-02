@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @SP
+# 👋 Hi, I'm Sankalp
 
 Developer passionate about **Full-Stack Web Development** and **Cybersecurity**.
 
