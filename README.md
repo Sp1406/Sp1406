@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sankalp
 
 Developer passionate about **Full-Stack Web Development** and **Cybersecurity**.
-[Personal Site](https://sp1406.vercel.app/)
 ---
 
 ### 💡 About Me
